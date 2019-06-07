@@ -1,0 +1,35 @@
+Data Manifesto
+
+How to find projects
+  Learn the business better than the business
+  Stratify discussions with people by organizational level to gain full perspective
+  Focus on an organization’s inputs and outputs and how they relate to KPIs
+  
+How to prioritize projects
+  Is anyone asking for it, and what is the estimated ROI?
+  High ROI projects often require governance and change management
+  Value is defined by the business, not the sophistication of the solution
+  Understand risk and reward and diversify your project portfolio
+  Only develop projects you are committed to sustaining unless there is a predefined transition plan to another team and they are part of development
+
+How to get projects done
+  Outline the likely project lifecycle
+  Review understanding and approach before writing and reviewing code
+  Regularly discuss new and ongoing projects to promote collaboration, consolidation, and self-organizing teams
+  Knowledge management won’t make you succeed, but it can make you fail
+  If work is not reproducible, testable, and tested, it shouldn’t be deployed
+  If work is deployed, it must be monitored and sustained
+  Understand project lifecycles and know when and how to end lower ROI work
+
+How to build a data science team
+  Diversity is what brings a team to life
+  Key Roles: 1) Business Analyst (defines what to build), 2) Data Engineer (builds the data foundation), 3) Machine Learning Engineer (builds data artifacts), and 4) DevOps (makes solution actually work)
+  Focus on delivering value, as defined by the business, not infrastructure
+  After value has been delivered, invest in infrastructure to scale, automate, and solve more valuable problems
+  Scale is usually achieved with better systems and better people, not more people
+  Track decisions and actions that align with ROI, not lines of code
+  Don’t try to be IT, be the business
+
+What does long-term success look like? 
+  The line between business and data science teams is blurred and eventually disappears entirely with automated intelligence
+  Human interaction with business processes is by design, not default
