@@ -1,0 +1,41 @@
+Meaningful Change
+
+Below are a portion of my ideas around how to use data science to bring about meaningful change in your organization.
+
+Start with a KPI
+What do you want to improve in the organization? Tying projects to KPIs grounds your work in what is relevant to the organization.
+
+Separate KPI measurement from improvement. Once you choose a KPI to improve you’ll likely notice that KPIs don’t always have good hygiene. If an organization truly cares about improving a KPI, deliberately separate the individuals that measure the KPI from those who work to improve it. Failing to do this almost inevitably results in KPIs that improve over time without improving the underlying process. This typically takes the form of filtering where scenarios that bring down the KPI are removed. This pattern leads to the proliferation of KPIs because they degrade over time due to our natural desire to show improvement.
+
+Impactful projects often require data integration work first. This fact can be a bit of a disappointment for the anxious executive who wants to see the power of data science right off the bat. Try to find peripheral projects to satisfy this impatient sentiment and buy time to do the foundational work of data integration and engineering. Involve end users and data scientists in the work of integration so current and future business requirements can be translated back into the requisite data. Some type of business analyst (knows the business, data, and the work of data science) is best suited to lead this type of work.
+
+Seek projects that require change management
+Data science without change management is effectively nothing more than a research exercise. While research has a place, most corporate data teams are put in place to deliver value, not develop algorithms.
+
+If you or your team is working on data science projects that don’t involve some level of change management, you should probably consider aiming higher. Aim higher in two regards:
+
+Focus on projects that have a higher impact (start with KPIs)
+Engage with higher/more influential executives
+Something that helps me aim higher is to think how intelligent data solutions can entirely replace business functions, not just be a useful tool to the business. If you are working on projects that replace core business functions you can guarantee there will be significant change management questions to address with executives.
+
+To identify these business functions, I have found it constructive to think about an organization’s inputs and outputs. Inputs and outputs that are centered around data represent opportunities for automation and predictive models. A vibrant data science team is always working on data integration projects to convert analog processes (e.g. information passed via the phone or email) into living data. One last point of advice is to accept that the smartest business decision may include letting a low cost inefficient process persist, at least for now.
+
+Engage relevant stakeholders
+As with change management, successful data science projects require executive sponsorship and influential advocates. Successful data science managers take on the role of cultivating advocates and garnering executive sponsorship.
+
+To avoid “not built here” problems down the road, engage early with all relevant stakeholders so everyone feels like they have a say from the beginning. Your executive sponsor should likely have the loudest voice, but don’t make the mistake of letting it be the only voice. Remember you’ll need the support of these stakeholders because your project is hopefully important enough to require change management.
+
+It is easy for these types of sessions to become never-ending wish-lists. Don’t cut off this important feedback, organize it, and then gain consensus on what makes the most sense to do right now. Understanding the scope of future opportunity will help you justify and make the right long-term people, process, and tools decisions now.
+
+Prototype the real deal
+Build a prototype that is end-to-end and requires you to encounter the significant roadblocks of the finished solution. This may seem counter-intuitive, why not avoid the big unknowns in your prototype and just get it out the door? The reason is that the prototype is a means to the end, not the end. You want to spend time with the major roadblocks because that will help you provide more accurate timelines, inform architecture decisions, and/or convince you to choose another project altogether. The earlier you know these things the better for everyone.
+
+For this reason, build prototypes using the architecture of the final solution. This may slow you down slightly, but the worst thing to realize after a successful prototype is that you can’t actually build the real deal.
+
+Iterate in production
+If your prototype is the real deal it shouldn’t take long to put at least a partial solution into production. Why rush to get to production? In my experience people don’t take solutions seriously until they are in production. That’s when the real feedback tends to start rolling in. A limited scope production product allows you to avoid rework because while you know how to implement various planned features, you haven’t implemented them yet, so changing requirements become much less painful.
+
+If you aren’t already using version control and good software development processes the iteration phase will kill your project. To me the quality of a software developer and/or data scientist isn’t known until you get to iteration. The best developers can take almost any feature request in stride without significant rework because their prototype is the real deal and they have a mind toward where it might go.
+
+Conclusion
+I have seen the sentiment expressed that it is easier to make something new than to change an existing process. While this is true, my longest lasting and most impactful projects have been those where instead of creating an alternative branch for others to consider, I took the time to make the data science solution replace the existing process. These incremental success stories help organizations gain confidence in the promise of data science and to eventually become more model-driven.
